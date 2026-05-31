@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     version="2.0">
+    <channel>
+        <title>CodexMonitor</title>
+        <link>https://github.com/systemoutprintlnnnn/codex-monitor</link>
+        <description>Auto-update feed for CodexMonitor.</description>
+        <language>en</language>
+        <!--
+          Append a new <item> at the TOP of the list for every release.
+          The CodexMonitor job in quota-monitor's .github/workflows/release.yml
+          signs the published DMG and pushes the <item> here automatically
+          (tools/release-sparkle.sh + tools/appcast-insert.py). The first
+          release inserts before </channel> since this channel starts empty.
+          Sparkle picks "latest" by the highest sparkle:version among items
+          whose sparkle:minimumSystemVersion this Mac satisfies, so order
+          isn't load-bearing, but newest-first is conventional.
+        -->
+    </channel>
+</rss>
