@@ -18,6 +18,19 @@
           isn't load-bearing, but newest-first is conventional.
         -->
         <item>
+            <title>CodexMonitor 0.2.43</title>
+            <pubDate>Sun, 19 Jul 2026 16:55:54 +0000</pubDate>
+            <sparkle:version>0.2.43</sparkle:version>
+            <sparkle:shortVersionString>0.2.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/timmyagentic/codex-monitor/main/ReleaseNotes/0.2.43.en.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="zh-Hans">https://raw.githubusercontent.com/timmyagentic/codex-monitor/main/ReleaseNotes/0.2.43.zh-Hans.html</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/timmyagentic/codex-monitor/releases/download/v0.2.43/CodexMonitor-0.2.43.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="0d6RQwL1ECwr1ZVMPYXfqmc8qL7NgfHcnquSSyRuVCd6HU/cEJQRMqoFbZedpuEpPqq6iyEiCWXfLbwqZinxCg==" length="7217354" />
+        </item>
+        <item>
             <title>CodexMonitor 0.2.42</title>
             <pubDate>Fri, 17 Jul 2026 13:57:02 +0000</pubDate>
             <sparkle:version>0.2.42</sparkle:version>
